@@ -1,0 +1,83 @@
+body{
+    margin-top: 0;
+}
+
+form{
+    position: relative;
+}
+.top{
+    background-color: grey;
+    margin-top: 0;
+    padding: 20px;
+}
+
+.name{
+    font-size: 3rem;
+    text-align: center;
+    width: 50%;
+    margin:0px auto;
+}
+
+.no1{
+    position: absolute;
+    margin: 20px;
+font-size: 2rem;
+}
+
+.con{
+    font-size: 2.2rem;
+    position: absolute;
+    padding-top: 4px;
+}
+
+.con1{
+    margin-left: 180px;
+}
+
+hr{
+    margin: 40px auto;
+    border: dotted;
+    border-top: 50px;
+    border-width: 10px;
+    width: 20%;
+}
+
+p{margin-top: 4px;
+    padding-top: px;
+    margin-left: 180px;
+    font-size: 30px;
+}
+
+.num{
+    
+   margin-left: 110px;
+   margin-right: 100px;
+}
+
+.num1{
+    
+    margin-left: 160px;
+    margin-right: px;
+ }
+
+#group1{
+  
+   
+}
+
+h3{
+    margin-left: 5px;
+}
+.btn{
+    
+    width: 100px;
+    height: 50px;
+    margin-left: 2px;
+    color: whitesmoke;
+    background-color: grey;
+}
+
+.bt{
+    
+    margin: 0px 700px;
+}
